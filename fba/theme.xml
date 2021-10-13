@@ -10,24 +10,24 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Final Burn</text>
+    <text>FinalBurn Team</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Alpha</text>
+    <text>FB Alpha/Neo</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>Coin Operated Cabinet</text>
+   <text>MULTIPLE ARCADE EMULATOR</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</text>
+   <text>FinalBurn Neo is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the FinalBurn team and originated from FinalBurn by Dave and old MAME versions. FinalBurn Neo is an active fork by former FBA devs.</text>
   </text>
  </view>
 </theme>

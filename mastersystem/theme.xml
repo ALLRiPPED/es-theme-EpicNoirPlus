@@ -10,24 +10,24 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Sega Master</text>
+    <text>Sega</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>System</text>
+    <text>Master System</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1985  ·  8-bit Console</text>
+   <text>1985  ·  8-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Succeeding the SG-1000, the Master System was released as a direct competitor to the Nintendo Entertainment System (NES)</text>
+   <text>SG-1000 compatible. CPU Zilog Z80A @4MHz, 8kB RAM, 16kB VRAM, 256×192, 32 clrs, Graph Yamaha YM2602B VDP Sound Yamaha VDP PSG(SN76489), Yamaha YM2413. Released NA: Sep,'86, JP: Oct,'87, EU:'87.</text>
   </text>
  </view>
 </theme>

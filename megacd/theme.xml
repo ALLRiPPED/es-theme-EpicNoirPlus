@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Sega MegaCD</text>
+    <text>Mega CD</text>
   </text>
 </view>    
 
@@ -13,21 +13,21 @@
     <text>Sega</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>MegaCD</text>
+    <text>Mega CD</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1991  ·  16-bit Console</text>
+   <text>1991  ·  16-BIT ADD-ON</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>CD-ROM add-on to the Megadrive, it launched many FMV games, including the infamous Night Trap, which led to the creation of the ESRB</text>
+   <text>CD-ROM add-on to the Megadrive, it launched many FMV games, including the infamous Night Trap, which led to the creation of the ESRB. CPU Motorola 68000 @12.5MHz, 64kbit int. RAM, Sound Ricoh RF5C164, Release date JP: 12 Dec '91 NA: 15 Oct '92 UK: 2 Apr '93 EU: '93.</text>
   </text>
  </view>
 </theme>

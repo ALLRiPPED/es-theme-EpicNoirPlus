@@ -13,14 +13,14 @@
     <text>Fixed Screen</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.05 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>GAME GENRE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>A fixed or single screen perspective applies to all video games in which the entire playfield is shown on the screen</text>
+   <text>A fixed or single screen perspective applies to all video games in which the entire playfield is shown on the screen.</text>
   </text>
  </view>
 </theme>

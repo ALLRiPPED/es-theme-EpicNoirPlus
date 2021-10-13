@@ -7,26 +7,26 @@
     <text>Power</text>
   </text>
     <text name="systemInfo">
-   <text>Configuration</text>
+   <text>Power Menu</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Power</text>
+    <text>POWER</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.05 0.130</pos>
     <size>0 0</size>
   </text> 
   <text name="shortdescription" extra="true">
-   <text>Shut Down Menu</text>
+   <text>POWER OPTIONS</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Safe option to Shut down or restart your System</text>
+   <text>Safely Shut down or Restart your System.</text>
   </text>
   <text name="systemInfo">
-   <text>Configuration</text>
+   <text>Power Menu</text>
   </text>
  </view>
 </theme>

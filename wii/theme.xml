@@ -13,21 +13,21 @@
     <text>Nintendo</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
     <text>Wii</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text> 
   <text name="shortdescription" extra="true">
-   <text>2006  ·  32-bit Console</text>
+   <text>2006  ·  32-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Wii introduced the Wii Remote controller, which can be used as a handheld pointing device and detects movement in three dimensions.</text>
+   <text>7th gen console. Introduced the Wii Remote controller that detects movement in three dimensions. CPU 729MHz IBM PowerPC "Broadway", 88MB RAM, 24MB MoSys 1T-SRAM, 324MHz, 2.7GB/s bandwidth, Graph. 243MHz ATI "Hollywood". Release date 19 Nov '06.</text>
   </text>
  </view>
 </theme>

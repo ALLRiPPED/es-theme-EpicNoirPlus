@@ -4,30 +4,30 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Nintendo GameCube</text>
+    <text>GameCube</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Nintendo</text>
+    <text>Nintendo, Foxconn</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
     <text>GameCube</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>2001  ·  128-bit Console</text>
+   <text>2001  ·  128-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Nintendo GameCube is the successor to the Nintendo 64 and is the first Nintendo console to use optical discs as its primary storage medium</text>
+   <text>Successor to the N64. The first Nintendo console to use optical discs. CPU IBM PowerPC 750CXe Gekko @486MHz, mem card 16MB max, GPU ATI Flipper @162MHz, Sound Analog stereo (Dolby Pro Logic II). Release date JP: 14 Sep '01 NA: 18 Nov '01 EU: 03 May '02 AU: 17 May '02.</text>
   </text>
  </view>
 </theme>

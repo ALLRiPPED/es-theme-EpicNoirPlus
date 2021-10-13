@@ -9,19 +9,25 @@
 </view>    
 
 <view name="system">
-
+<text name="sys_line1" extra="true">
+    <text>Atari Corporation</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.142</pos>
+    <size>0 0</size>
+  </text>
   <text name="sys_line2" extra="true">
     <text>Atari Lynx</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
-</text>
+  </text>    
   <text name="shortdescription" extra="true">
-   <text>1989  ·  16-bit Handheld Console</text>
+   <text>1989  ·  16-BIT HANDHELD CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Lynx was the world's first handheld electronic game with a color LCD and was also notable for its advanced graphics and ambidextrous layout</text>
+   <text>The world's first handheld electronic game with a color LCD. CPU WDC 65SC02, Display 160×102 std res. ROM cartridge. Release date 01 Sep '89.</text>
   </text>
  </view>
 </theme>

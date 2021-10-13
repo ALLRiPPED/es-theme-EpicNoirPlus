@@ -10,24 +10,24 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Coleco</text>
+    <text>Coleco Industries, Inc.</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Vision</text>
+    <text>ColecoVision</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1982  ·  8-bit Console</text>
+   <text>1982  ·  8-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The ColecoVision offered a closer experience to more powerful arcade game systems compared to competitors such as the Atari 2600</text>
+   <text> A closer experience to more powerful arcade game systems. CPU Zilog Z80 Storage 8/16/24/32 KB, Graphics	TMS9928A, Joystick/Numeric Keypad, ROM cartridge. Retail avail. NA: Aug '82 EU: Jul '83.</text>
   </text>
  </view>
 </theme>

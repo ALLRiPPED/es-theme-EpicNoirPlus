@@ -13,21 +13,21 @@
     <text>Sony</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
     <text>Playstation</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1994  ·  32-bit Console</text>
+   <text>1994  ·  32-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Sony PlayStation primarily competed with the Nintendo 64 and the Sega Saturn as part of the fifth generation of video game consoles</text>
+   <text>Created to compete with the N64 and the Sega Saturn. CPU R3000 @33.8688MHz, 2MB RAM, 1MB VRAM, Sound 16-bit, 24 ch ADPCM. Release date JP: 03 Dec '94 NA: 09 Sep '95 EU: 29 Sep '95 AU: 15 Nov '95.</text>
   </text>
  </view>
 </theme>

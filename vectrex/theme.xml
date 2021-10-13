@@ -9,18 +9,25 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>General Consumer Electronics, M.B. Co </text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.142</pos>
+    <size>0 0</size>
+  </text>
   <text name="sys_line2" extra="true">
     <text>Vectrex</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
-  </text>   
+</text>
   <text name="shortdescription" extra="true">
-   <text>1982  ·  8-bit Console</text>
+   <text>1982  ·  8-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Vector display based home video game console that was developed by Western Technologies Smith Engineering</text>
+   <text>Developed by Smith Engineering. CPU Motorola MC68A09 @1.5MHz, Memory 1KB, Display 9" CRT. Release date NA: Nov, '82 EU: May '83 JP: Jun '83.</text>
   </text>
  </view>
 </theme>

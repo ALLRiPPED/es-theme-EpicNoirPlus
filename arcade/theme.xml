@@ -13,14 +13,14 @@
     <text>Arcade</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.05 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-    <text>1970's  ·  Arcade Machines</text>
+    <text>COIN OPERATED CABINET</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</text>
+    <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s.</text>
   </text>
  </view>
 </theme>

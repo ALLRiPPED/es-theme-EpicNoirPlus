@@ -4,30 +4,30 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Famicom Disk System</text>
+    <text>Famicom</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Famicom</text>
+    <text>Nintendo</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Disk System</text>
+    <text>Family Computer</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1986  ·  8-bit Console</text>
+   <text>1986  ·  8-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Family Computer (also known by the portmanteau abbreviation Famicom) was the Japanese version of the Nintendo Entertainment System</text>
+   <text>The Family Computer (Famicom) was the Japanese version of the Nintendo Entertainment System. CPU Ricoh 2A03 8-bit processor (MOS Tech 6502 core). Release date JP: 15 Jul '83 NA: 18 Oct '85 EU: 01 Sep '86 EU/AU: '87.</text>
   </text>
  </view>
 </theme>

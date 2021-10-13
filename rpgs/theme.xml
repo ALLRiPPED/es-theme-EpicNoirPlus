@@ -13,14 +13,14 @@
     <text>Role Playing</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.05 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>GAME GENRE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>In a role-playing game, the player controls the actions of one or several characters, immersed in an often fantastical world</text>
+   <text>In a role-playing game, the player controls the actions of one or several characters, immersed in an often fantastical world.</text>
   </text>
  </view>
 </theme>

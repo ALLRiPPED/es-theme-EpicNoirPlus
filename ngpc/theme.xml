@@ -10,24 +10,24 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Neo Geo</text>
+    <text>SNK Corporation</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Pocket Color</text>
+    <text>NG Pocket Color</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1999  ·  16-bit Handheld Console</text>
+   <text>1999  ·  16-BIT HANDHELD CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</text>
+   <text>Successor/compatible to NGP. CPU Toshiba TLCS900H @6.144MHz, Zilog Z80 @3.072MHz for sound, 12KiB RAM for 900H, 4KiB RAM (Z80), 64KiB ROM, 2.7" 160x152, 4096 colors. Released JP: 16 Mar '99 NA: 06 Aug '99 EU: 01 Oct '99.</text>
   </text>
  </view>
 </theme>

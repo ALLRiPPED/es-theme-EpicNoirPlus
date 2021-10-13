@@ -10,24 +10,24 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>GameBoy</text>
+    <text>Nintendo</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Color</text>
+    <text>GBC</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1998  ·  8-bit Handheld Console</text>
+   <text>1998  ·  8-BIT HANDHELD CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Game Boy Color features a color screen. It is slightly thicker and taller and features a slightly smaller screen then the Game Boy Pocket</text>
+   <text>Features a color screen. CPU Sharp LR35902 core @4.19/8.38MHz Display LCD 160x144px. Release date JP: 21 Oct '98 NA: 18 Nov '98 PAL: 23 Nov '98 AU: 27 Nov '98.</text>
   </text>
  </view>
 </theme>

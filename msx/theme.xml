@@ -9,18 +9,25 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sony, Sanyo, Panasonic, JVC ...</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.142</pos>
+    <size>0 0</size>
+  </text>
   <text name="sys_line2" extra="true">
     <text>MSX</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
-  </text> 
+</text>
   <text name="shortdescription" extra="true">
-   <text>1983  ·  8-bit Computer</text>
+   <text>1983  ·  8-BIT COMPUTER</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>MSX is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers</text>
+   <text>MSX is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers by Microsoft and ASCII. CPU Zilog Z80, 8-512 KB, Release date '83.</text>
   </text>
  </view>
 </theme>

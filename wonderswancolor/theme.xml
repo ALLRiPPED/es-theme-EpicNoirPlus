@@ -4,30 +4,30 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Wonderswan Color</text>
+    <text>WonderSwan Color</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Wonderswan</text>
+    <text>Bandai Co., Ltd.</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Color</text>
+    <text>WonderSwan Color</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1999  ·  16-bit Handheld Console</text>
+   <text>2000  ·  16-BIT HANDHELD CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Powered by a 16 bit central processing unit, it took advantage of a low price point and long battery life in comparison to its competition</text>
+   <text>The color versions: WonderSwan Color/SwanCrystal. CPU NEC V30MZ, 512kbit (64KB) RAM Display FSTN (TFT LCD SwanCrystal). Release date JP: 9 Dec '00.</text>
   </text>
  </view>
 </theme>

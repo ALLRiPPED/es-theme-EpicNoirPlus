@@ -13,21 +13,21 @@
     <text>Sega</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
     <text>Dreamcast</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1998  ·  128-bit Console</text>
+   <text>1998  ·  32-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Dreamcast was Sega's final home console, marking the end of the company's 18 years in the console market</text>
+   <text>Sega's final home console. CPU	Hitachi SH-4 32-bit RISC @200MHz, 16MB RAM, 8MB Vid.RAM, 2MB Aud.RAM, 128KB VMU, Graph 100MHz PowerVR2, Sound 67MHz Yamaha AICA 32-bit ARM7 RISC CPU core, 64 ch. Release date JP: 27 Nov '98 NA: 09 Sep '99 EU: 14 Oct ' 99 AU: 30 Nov '99.</text>
   </text>
  </view>
 </theme>

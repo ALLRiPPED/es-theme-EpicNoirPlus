@@ -10,24 +10,24 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Famicom</text>
+    <text>Nintendo</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Disk System</text>
+    <text>FDS</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1986  ·  8-bit Console</text>
+   <text>1986  ·  8-BIT CONSOLE ADDON</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Family Computer is a peripheral for Nintendo's Family Computer home video game console, released only in Japan</text>
+   <text>The FM Disk System is a peripheral for Nintendo's Family Computer home video game console. CPU Ricoh 2A03, Media Floppy disks, Release date JP: 21 Feb '86.</text>
   </text>
  </view>
 </theme>

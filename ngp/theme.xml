@@ -10,24 +10,24 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Neo Geo</text>
+    <text>SNK Corporation</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Pocket</text>
+    <text>NG Pocket</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1998  ·  16-bit Handheld Console</text>
+   <text>1998  ·  16-BIT HANDHELD CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Monochrome handheld game console released by SNK. It was the company's first handheld system and is part of the Neo Geo family</text>
+   <text>Monochrome handheld game console released by SNK. Is part of the Neo Geo family. CPU Toshiba TLCS900H. Release date JP: 28 Oct '98.</text>
   </text>
  </view>
 </theme>

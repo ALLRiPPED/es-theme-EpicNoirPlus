@@ -9,19 +9,25 @@
 </view>    
 
 <view name="system">
-
+  <text name="sys_line1" extra="true">
+    <text>Sony</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.142</pos>
+    <size>0 0</size>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>SONY PSP</text>
+    <text>PSP</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>2004  ·  32-bit Handheld Console</text>
+   <text>2004  ·  32-BIT HANDHELD CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>
+   <text>Sony's first handheld. CPU 333MHz MIPS R4000, Display 480×272, 16mil colors, 16:9 TFT LCD, stereo, WiFi. Release date JP: 12 Dec '04 NA: 24 Mar '05 EU-AS-AU: 01 Sep '05.</text>
   </text>
  </view>
 </theme>

@@ -10,24 +10,24 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Nintendo Entertainment</text>
+    <text>Nintendo</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>System</text>
+    <text>NES</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1983  ·  8-bit Console</text>
+   <text>1983  ·  8-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The best selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983</text>
+   <text>The best selling gaming console of its time. CPU Ricoh 2A03 8-bit processor (MOS Technology 6502 core). Release date JP: 15 Jul '83 NA: 18 Oct '85 EU: 01 Sep '86 AU: '87.</text>
   </text>
  </view>
 </theme>

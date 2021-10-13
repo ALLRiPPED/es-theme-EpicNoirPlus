@@ -13,21 +13,21 @@
     <text>Sega</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
     <text>Saturn</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1994  ·  32-bit Console</text>
+   <text>1994  ·  32-BIT CONSOLE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Fifth generation home video game console developed by Sega and successor to the successful Sega Genesis</text>
+   <text>Successor to the successful Sega Genesis. CPU 2× Hitachi SH-2 @28.6MHz Graph VDP1/VDP2, Sound	Yamaha YMF292. Release date JP: 22 Nov '94 NA: 11 May '95 EU: 18 Jul '95.</text>
   </text>
  </view>
 </theme>

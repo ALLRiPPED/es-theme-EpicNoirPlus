@@ -13,14 +13,14 @@
     <text>Beat 'em Up</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.05 0.130</pos>
     <size>0 0</size>
   </text>  
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>GAME GENRE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Beat 'em up (also known as brawler) feature hand-to-hand or weapon combat between the protagonist and an improbably large number of opponents</text>
+   <text>Beat 'em up (also known as brawler) feature hand-to-hand or weapon combat between the protagonist and an improbably large number of opponents.</text>
   </text>
  </view>
 </theme>

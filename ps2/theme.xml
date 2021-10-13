@@ -13,21 +13,21 @@
     <text>Sony</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.142</pos>
+    <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
     <text>Playstation 2</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.16</pos>
+    <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>2000  ·  128-bit Console</text>
+   <text>2003  · CROSS PLATFORM SOFTWARE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The PlayStation 2 is the best-selling video game console of all time, selling over 155 million units.</text>
+   <text>The best-selling video game console of all time (sold 155+ mil units). CPU "Emotion Engine" @300MHz, 32MB RDRAM/ 4MB eDRAM (vid), 40GB HD, 150MHz "Graphics Synthesizer", DD-DTS 5.1 Release date JP: 04 Mar '00 NA: 26 Oct '00 EU: 24 Nov '00 AU: 30 Nov '00.</text> 
   </text>
  </view>
 </theme>
