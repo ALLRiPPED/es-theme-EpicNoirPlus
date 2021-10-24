@@ -1,33 +1,33 @@
-<theme>
+﻿<theme>
 <formatVersion>4</formatVersion>
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Sega Pico</text>
+    <text>Pico-8</text>
   </text>
 </view>    
 
 <view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Sega Toys</text>
+<text name="sys_line1" extra="true">
+    <text>Lexaloffle Games</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
     <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Sega Pico</text>
+    <text>Pico-8</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.05 0.16</pos>
     <size>0 0</size>
-</text>
+  </text>    
   <text name="shortdescription" extra="true">
-   <text>1993  ·  16-BIT CONSOLE</text>
+   <text>2015  ·  VM GAME ENGINE</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Sega Pico, also known as Kids Computer Pico, is an educational video game console by Sega Toys. Same HW as Sega Genesis. Release date JP: Jun '93 NA: Nov '94 EU: '94 KOR: '95.</text>
+   <text>The Pico-8 (stylized as PICO-8) is a virtual machine and engine, created by Lexaloffle Games. It is designed to mimic a "fantasy video game console". Release date Apr '15.</text>
   </text>
  </view>
 </theme>
