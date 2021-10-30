@@ -4,30 +4,30 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Wine</text>
+    <text>Lutris</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Linux</text>
+    <text>Lutris</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
     <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Wine</text>
+    <text>Lutris</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.05 0.16</pos>
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>Windows Emulator</text>
+  <text>Lutris</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Wine is a free and open-source compatibility layer that aims to allow application software and computer games developed for Microsoft Windows to run on Unix-like operating systems. Initial release 4 July 1993.</text>
+   <text>Lutris is a free and open source game manager for Linux-based operating systems that aims to allow application software and computer games developed has one-click installation available for games on its website, and also integrates with the Steam website. Initial release 8 March 2017.</text>
   </text>
  </view>
 </theme>
