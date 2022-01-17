@@ -1,33 +1,33 @@
 <theme>
-<formatVersion>7</formatVersion>
+<formatVersion>4</formatVersion>
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-    <text>VMU</text>
+    <text name="nameLabel" extra="true">
+    <text>Model 3</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>SEGA</text>
+    <text>Sega</text>
     <fontSize>0.048</fontSize>
     <origin>0 0</origin>
     <pos>0.05 0.142</pos>
     <size>0 0</size>
   </text>
   <text name="sys_line2" extra="true">
-    <text>VMU</text>
+    <text>Model 3</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.05 0.16</pos>
     <size>0 0</size>
-  </text>
+</text>
   <text name="shortdescription" extra="true">
-   <text>1998  ·  Handheld Console</text>
+   <text>1996  ·  32-BIT ARCADE BOARD</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Visual Memory Unit, also referred to as the Visual Memory System in Japan and Europe, is the primary memory card produced by Sega for the Dreamcast home video game console</text>
+   <text>Sega Model 3 is an arcade platform released in 1996 as the successor to Sega Model 2. It had an IBM-Motorola PowerPC 603e CPU that could run at 66, 100 or 166 MHz, 33 MB of RAM and two Lockheed Martin Real3D/Pro-1000 GPUs. Model 3 was followed by Sega Naomi in 1998 which uses a similar architecture to the Sega Dreamcast.</text>
   </text>
  </view>
 </theme>
