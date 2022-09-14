@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Windows</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Microsoft</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Windows</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  SOFTWARE OS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Microsoft introduced an operating environment named Windows on November 20, 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).</text>
+  </text>
+ </view>
+</theme>
